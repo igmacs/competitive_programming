@@ -50,3 +50,28 @@ Things to learn for the future
       auxiliary function before the main one, which I didn't like. The
       other functions were larger so I didn't try, but I still didn't
       like not being able to write the code top down.
+
+# Problem 3
+
+This one was easy, so I focused in trying to write the code is as few
+lines as possible and apply basic functional programming functions
+instead of defining my own auxiliary, recursive functions.
+
+Things I learned/practiced
+- Deconstructing, which is nice
+- How to emulate a classic imperative for loop with `reduce` +
+  deconstructing
+- A few basic and useful core functions, like `map-indexed`,
+  `max-key`, etc
+
+Things to learn for the future
+- [ ] Imperative programming, at least in most languages, allows for a
+      good structure of the code, splitting long lines in multiple
+      assignments, having clear code blocks, etc. I'm finding Clojure
+      harder to structure. We can use `let` and define auxiliary
+      functions, but still the usual function call is hard for me to
+      read, specially higher order ones or when there is a lot of
+      composition. Maybe with better indentation rules it gets better
+      (my editor only adds one space when writing the arguments for a
+      function in a separate line), but I should find out what are the
+      best practices in this regard.
