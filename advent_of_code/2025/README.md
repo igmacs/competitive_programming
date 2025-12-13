@@ -75,3 +75,19 @@ Things to learn for the future
       (my editor only adds one space when writing the arguments for a
       function in a separate line), but I should find out what are the
       best practices in this regard.
+
+# Problem 4
+
+This one was also easy, but the runtime was slower than I expected
+when comparing it to Python, so I focused in trying to understand it
+and improve it (the implementation, not the algorithm itself). In the
+end I could not speed up the algorithm implementation, but I learned a
+few things along the way
+
+Things I learned/practiced
+- transient collections
+- atoms
+
+Things to learn for the future
+- [ ] Why is part 1 implementation slower than Python and how can it
+      be improved?
