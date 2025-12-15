@@ -91,3 +91,11 @@ Things I learned/practiced
 Things to learn for the future
 - [ ] Why is part 1 implementation slower than Python and how can it
       be improved?
+
+# Problem 5
+
+This one was easy too. I'm starting to feel comfortable again with
+functional programming, although I'm not sure if I'm abusing too much
+of `reduce`, I'm using it in every exercise. I learned about threading
+macros and applied them in one function, and it does indeed make the
+code much more readable.
