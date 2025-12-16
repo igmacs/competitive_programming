@@ -99,3 +99,8 @@ functional programming, although I'm not sure if I'm abusing too much
 of `reduce`, I'm using it in every exercise. I learned about threading
 macros and applied them in one function, and it does indeed make the
 code much more readable.
+
+# Problem 6
+
+Also easy. Not much to mention about this one, I didn't apply anything
+new
