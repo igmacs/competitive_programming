@@ -109,3 +109,8 @@ new
 
 Also easy. Not much to mention about this one, I didn't apply anything
 new
+
+# Problem 8
+
+Also easy. Not much to mention about this one, I didn't apply anything
+new
