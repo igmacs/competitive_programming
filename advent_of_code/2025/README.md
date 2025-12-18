@@ -104,3 +104,8 @@ code much more readable.
 
 Also easy. Not much to mention about this one, I didn't apply anything
 new
+
+# Problem 7
+
+Also easy. Not much to mention about this one, I didn't apply anything
+new
