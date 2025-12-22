@@ -114,3 +114,17 @@ new
 
 Also easy. Not much to mention about this one, I didn't apply anything
 new
+
+# Problem 9
+
+Part one was also trivial, but part two was finally hard. I made a few
+assumptions on the data that made it more manageable and fortunately
+the solution was accepted. More details about the algorithm as
+comments in the code.
+
+The only new language features I've applied are records, to make the
+code more readable, and destructuring, which I actually started using
+in problem 7. I've learned already several more language features but
+I'm beginning to suspect that they will never be actually needed or
+useful for these kind of problems, so maybe I'll have to start forcing
+them in the next ones and just using them for the sake of it
