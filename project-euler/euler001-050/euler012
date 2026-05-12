@@ -1,5 +1,0 @@
-Los numeros triangulares son de la forma n(n-1)/2. mcd(n/2,n+1)=1 (suponiendo
-que n es el par, sino igual), y el numeros de divisores de n(n-1)/2 es el de
-n/2 multiplicado por el de n+1. Se busca linealmente hasta encontrar el n
-adecuado. El numero de divisores se puede buscar a pelo, da de sobra.
-Optimizarlo no es sencillo
