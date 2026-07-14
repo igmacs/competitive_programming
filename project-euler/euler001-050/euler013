@@ -1,5 +1,0 @@
-Fuerza bruta. El problema de que no haya ningun tipo de enteros nativo con
-suficiente rango para esos numeros se puede resolver o bien usando arrays, o
-sumando en bloques de alante a atras, y parando cuando se hayan superado las
-10 cifras pedidas y el acarreo de las restantes ya no pueda afectar al décimo
-dígito
