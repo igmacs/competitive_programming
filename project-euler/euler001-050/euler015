@@ -1,4 +1,0 @@
-supongo que fuerza bruta es suficiente, si no programacion dinamica.
-tambien se puede resolver con combinatoria: cuantas maneras de colocar 20
-movimientos hacia la derecha en 40 posiciones (20 derecha + 20 abajo)
-Solucion: 40 sobre 20.
