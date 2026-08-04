@@ -1,5 +1,0 @@
-fuerza bruta da de sobra
-Si no, se puede definir d bien, incluyendo a n como divisor de n, y te queda
-una ecuacion de la forma d(a)=d(b)=a+b. d es una funcion multiplicativa, y
-d(p^k) = sum p^k = p^(k+1)-1. Haciendo algo parecido a la criba de erastotenes
-se puede optimizar el calculo de los d(n)
