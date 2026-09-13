@@ -1,4 +1,4 @@
-# first hald of the code copied from exercise 21
+# first half of the code copied from exercise 21
 
 import math
 import itertools
